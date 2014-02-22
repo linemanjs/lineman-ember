@@ -2,14 +2,14 @@
   "name": "lineman-ember",
   "title": "This is a plugin to get started with Ember using [Lineman](http://linemanjs.com). We recommend you look at our [Ember template project](https://github.com/testdouble/lineman-ember-template/) as a starting point.",
   "version": "0.0.1",
-  "homepage": "https://github.com/lineman/lineman-ember",
+  "homepage": "https://github.com/linemanjs/lineman-ember",
   "author": {
     "name": "Justin Searls",
     "company": "Test Double"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lineman/lineman-ember.git"
+    "url": "git://github.com/linemanjs/lineman-ember.git"
   },
   "main": "main.js",
   "dependencies": {
