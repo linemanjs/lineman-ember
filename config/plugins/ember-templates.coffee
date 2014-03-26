@@ -16,7 +16,7 @@ module.exports = (lineman) ->
     emberTemplates:
         options:
           templateBasePath: "app/templates/"
-          templateFileExtensions: /\.(hb|hbs|handlebar|handlebars)/
+          templateFileExtensions: /\.(hbs|hb|handlebars|handlebar)/
         compile:
           files:
             "<%= files.template.generatedHandlebars %>": "<%= files.template.handlebars %>"
